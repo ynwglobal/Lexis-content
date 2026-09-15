@@ -1,0 +1,99 @@
+{
+  "bulletproof": false,
+  "colors": [
+    194,
+    194
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    0,
+    0,
+    0
+  ],
+  "custom secondary": [
+    0,
+    0,
+    0
+  ],
+  "extra color 5": 0,
+  "extra colors": [
+    0,
+    0
+  ],
+  "garage bitset": -1,
+  "model": 3126015148,
+  "mods": [
+    7,
+    8,
+    3,
+    5,
+    11,
+    -1,
+    13,
+    11,
+    0,
+    -1,
+    7,
+    3,
+    2,
+    3,
+    -1,
+    4,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    15,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "neon color": [
+    35,
+    1,
+    255
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 1,
+  "plate text": " SMOKE  ",
+  "tire color": [
+    255,
+    255,
+    255
+  ],
+  "wheel type": 10,
+  "window tint": 0
+}

@@ -1,0 +1,99 @@
+{
+  "bulletproof": false,
+  "colors": [
+    136,
+    111
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    246,
+    151,
+    153
+  ],
+  "custom secondary": [
+    255,
+    255,
+    255
+  ],
+  "extra color 5": 111,
+  "extra colors": [
+    111,
+    156
+  ],
+  "garage bitset": -1,
+  "model": 3062131285,
+  "mods": [
+    0,
+    -1,
+    -1,
+    -1,
+    0,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    3,
+    2,
+    2,
+    -1,
+    2,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    25,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "neon color": [
+    255,
+    50,
+    100
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 3,
+  "plate text": "88GOV044",
+  "tire color": [
+    255,
+    255,
+    255
+  ],
+  "wheel type": 9,
+  "window tint": 0
+}

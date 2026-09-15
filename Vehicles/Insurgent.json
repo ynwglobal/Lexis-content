@@ -1,0 +1,99 @@
+{
+  "bulletproof": true,
+  "colors": [
+    12,
+    12
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    5,
+    5,
+    5
+  ],
+  "custom secondary": [
+    5,
+    5,
+    5
+  ],
+  "extra color 5": 1,
+  "extra colors": [
+    0,
+    156
+  ],
+  "garage bitset": -1,
+  "model": 2071877360,
+  "mods": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    3,
+    2,
+    2,
+    -1,
+    3,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "neon color": [
+    255,
+    255,
+    255
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 1,
+  "plate text": "03BHS642",
+  "tire color": [
+    0,
+    0,
+    0
+  ],
+  "wheel type": 10,
+  "window tint": 0
+}

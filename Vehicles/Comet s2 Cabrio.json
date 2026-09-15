@@ -1,0 +1,99 @@
+{
+  "bulletproof": false,
+  "colors": [
+    13,
+    0
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    18,
+    18,
+    18
+  ],
+  "custom secondary": [
+    8,
+    8,
+    8
+  ],
+  "extra color 5": 31,
+  "extra colors": [
+    0,
+    37
+  ],
+  "garage bitset": -1,
+  "model": 1141395928,
+  "mods": [
+    3,
+    0,
+    7,
+    7,
+    -1,
+    -1,
+    -1,
+    2,
+    2,
+    -1,
+    -1,
+    2,
+    -1,
+    -1,
+    -1,
+    3,
+    3,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    20,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    4
+  ],
+  "neon color": [
+    255,
+    0,
+    255
+  ],
+  "neon enabled": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "plate index": 1,
+  "plate text": "41MDM828",
+  "tire color": [
+    255,
+    255,
+    255
+  ],
+  "wheel type": 11,
+  "window tint": 1
+}

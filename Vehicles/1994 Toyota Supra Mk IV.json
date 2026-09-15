@@ -1,0 +1,99 @@
+{
+  "bulletproof": false,
+  "colors": [
+    36,
+    38
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    128,
+    40,
+    0
+  ],
+  "custom secondary": [
+    189,
+    72,
+    0
+  ],
+  "extra color 5": 70,
+  "extra colors": [
+    5,
+    0
+  ],
+  "garage bitset": -1,
+  "model": 4080061290,
+  "mods": [
+    5,
+    1,
+    -1,
+    0,
+    0,
+    -1,
+    -1,
+    4,
+    0,
+    -1,
+    -1,
+    3,
+    2,
+    2,
+    -1,
+    4,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    2,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    9
+  ],
+  "neon color": [
+    255,
+    255,
+    255
+  ],
+  "neon enabled": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "plate index": 0,
+  "plate text": "01AWD483",
+  "tire color": [
+    255,
+    255,
+    255
+  ],
+  "wheel type": 0,
+  "window tint": 3
+}

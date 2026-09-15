@@ -1,0 +1,99 @@
+{
+  "bulletproof": false,
+  "colors": [
+    206,
+    206
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    0,
+    0,
+    0
+  ],
+  "custom secondary": [
+    0,
+    0,
+    0
+  ],
+  "extra color 5": 2,
+  "extra colors": [
+    0,
+    0
+  ],
+  "garage bitset": -1,
+  "model": 1455990255,
+  "mods": [
+    9,
+    8,
+    8,
+    -1,
+    -1,
+    -1,
+    9,
+    -1,
+    -1,
+    -1,
+    1,
+    3,
+    2,
+    2,
+    -1,
+    1,
+    4,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    5,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "neon color": [
+    255,
+    50,
+    100
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 3,
+  "plate text": "83OCW456",
+  "tire color": [
+    255,
+    255,
+    255
+  ],
+  "wheel type": 10,
+  "window tint": 2
+}

@@ -1,0 +1,99 @@
+{
+  "bulletproof": false,
+  "colors": [
+    112,
+    6
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    179,
+    185,
+    201
+  ],
+  "custom secondary": [
+    81,
+    84,
+    89
+  ],
+  "extra color 5": 1,
+  "extra colors": [
+    0,
+    156
+  ],
+  "garage bitset": -1,
+  "model": 2172320429,
+  "mods": [
+    3,
+    -1,
+    -1,
+    6,
+    5,
+    -1,
+    5,
+    8,
+    1,
+    -1,
+    0,
+    -1,
+    -1,
+    -1,
+    44,
+    3,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    1,
+    2,
+    -1,
+    2,
+    3,
+    3,
+    2,
+    11,
+    -1,
+    4,
+    -1,
+    -1,
+    -1,
+    3,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    3,
+    -1,
+    -1,
+    2
+  ],
+  "neon color": [
+    15,
+    3,
+    255
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 0,
+  "plate text": "86YAE103",
+  "tire color": [
+    255,
+    255,
+    255
+  ],
+  "wheel type": 1,
+  "window tint": 0
+}
