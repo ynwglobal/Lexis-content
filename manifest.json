@@ -1,0 +1,19 @@
+{
+  "outfits": [
+    { "name": "Black Bikini",  "file": "Outfits/black%20bikini.json" },
+    { "name": "Noose Fit",     "file": "Outfits/noose%20fit.json" },
+    { "name": "Orange Fit",    "file": "Outfits/orange%20fit.json" },
+    { "name": "White Bikini",  "file": "Outfits/white%20bikini.json" }
+  ],
+  "vehicles": [
+    { "name": "1994 Toyota Supra Mk IV", "file": "Vehicles/1994%20Toyota%20Supra%20Mk%20IV.json" },
+    { "name": "Comet S2 Cabrio",         "file": "Vehicles/Comet%20s2%20Cabrio.json" },
+    { "name": "Deluxo",                  "file": "Vehicles/Deluxo.json" },
+    { "name": "Faction Custom Donk",     "file": "Vehicles/Faction%20Custom%20Donk.json" },
+    { "name": "Gaunlet Classic Custom",  "file": "Vehicles/Gaunlet%20Classic%20Custom.json" },
+    { "name": "Impaler SZ",              "file": "Vehicles/Impaler%20SZ.json" },
+    { "name": "Insurgent",               "file": "Vehicles/Insurgent.json" },
+    { "name": "Omnis e-GT",              "file": "Vehicles/Omnis%20e-GT.json" },
+    { "name": "RE-7B (pink)",            "file": "Vehicles/RE-7B%20(%20pink%20).json" }
+  ]
+}
